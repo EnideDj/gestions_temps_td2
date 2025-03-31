@@ -27,27 +27,26 @@ Le projet est divisé en plusieurs fichiers et répertoires pour organiser l'app
 ├── test/
 │   └── widget_test.dart  
 ```
-
 ## Installation
 
 1. **Clonez le projet** :
 
-   ```bash
-   git clone https://github.com/EnideDj/convertisseur_mesures_td1
-   cd convertisseur_mesures
-
+```bash
+git clone https://github.com/EnideDj/gestions_temps_td2
+```
 2.	Installez les dépendances :
-      ```bash
-      flutter pub get
-
+```bash
+flutter pub get
+```
 3.	Exécutez l’application :
       Pour exécuter l’application sur un émulateur ou un appareil physique, utilisez la commande suivante :
-      ```bash
-      flutter run
-
+```bash
+flutter run
+```
 4.	Exécutez les tests :
       Pour exécuter les tests unitaires, utilisez la commande suivante :
-      ```bash
-      flutter test
+```bash
+flutter test
+```
 
 ## ENIDE DJENDER - FISA-TI-27 - IMT NORD EUROPE 
