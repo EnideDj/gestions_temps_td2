@@ -23,7 +23,6 @@ Le projet est divisé en plusieurs fichiers et répertoires pour organiser l'app
 │   ├── page_accueil_minuterie.dart 
 │   ├── minuteur.dart          
 │   ├── button.dart            
-│   └── constantes.dart        
 ├── test/
 │   └── widget_test.dart  
 ```
